@@ -1,4 +1,4 @@
-![Microverse](https://img.shields.io/badge/Microverse-blueviolet) ![PostgreSQL](https://img.shields.io/badge/-CSS-blue)
+![Microverse](https://img.shields.io/badge/Microverse-blueviolet) ![SQL](https://img.shields.io/badge/-SQL-blue)
 # Vet Clinic | Database
 
 > Built a database from Scratch for a Vet Clinic, stored data such as animals' name, birth of date, and more. Here we can query the information as well.
